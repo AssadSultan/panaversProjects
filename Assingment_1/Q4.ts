@@ -1,0 +1,1 @@
+console.log("Quaid e Azam Muhammad Ali once said, \"Expect the best, prepare for the worst.\"");
